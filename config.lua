@@ -1,10 +1,10 @@
 Config = {}
 
 -- Banking System Selection
-Config.BankingSystem = "qb-banking"  -- Options: "dw-banking", "qb-banking", "renewed-banking"
+Config.BankingSystem = "okokBanking"  -- Options: "dw-banking", "qb-banking", "renewed-banking", okokBanking
 
 -- Target Sysytem Selection
-Config.TargetSystem = "qb-target"  -- Options: "qb-target", "ox_target"
+Config.TargetSystem = "ox_target"  -- Options: "qb-target", "ox_target"
 
 -- Job Application System Settings
 Config.EnableApplicationSystem = true  -- Set to false to disable job application system
